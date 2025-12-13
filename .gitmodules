@@ -1,0 +1,3 @@
+[submodule "regulation"]
+	path = regulation
+	url = git@github.com:p2hacks2025/regulation.git
