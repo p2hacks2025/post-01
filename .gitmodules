@@ -7,3 +7,6 @@
 [submodule "octo-deck-ios"]
 	path = octo-deck-ios
 	url = git@github.com:furarico/octo-deck-ios.git
+[submodule "octo-deck-api"]
+	path = octo-deck-api
+	url = git@github.com:furarico/octo-deck-api.git
