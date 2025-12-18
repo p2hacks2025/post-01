@@ -4,3 +4,6 @@
 [submodule "octo-deck-typespec"]
 	path = octo-deck-typespec
 	url = git@github.com:furarico/octo-deck-typespec.git
+[submodule "octo-deck-ios"]
+	path = octo-deck-ios
+	url = git@github.com:furarico/octo-deck-ios.git
