@@ -1,3 +1,6 @@
 [submodule "regulation"]
 	path = regulation
 	url = git@github.com:p2hacks2025/regulation.git
+[submodule "octo-deck-typespec"]
+	path = octo-deck-typespec
+	url = git@github.com:furarico/octo-deck-typespec.git
