@@ -1,5 +1,11 @@
 # P2HACKS2025 アピールシート
 
+- [iOS リポジトリ](https://github.com/furarico/octo-deck-ios)
+- [API リポジトリ](https://github.com/furarico/octo-deck-api)
+- [TypeSpec リポジトリ](https://github.com/furarico/octo-deck-typespec)
+- [GitHub Projects](https://github.com/orgs/furarico/projects/8)
+- [API ドキュメント](https://furarico.github.io/octo-deck-typespec/octo-deck-api)
+
 ## プロダクト名
 
 OctoDeck（おくとでっく）
