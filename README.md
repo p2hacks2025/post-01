@@ -1,8 +1,16 @@
 # P2HACKS2025 アピールシート
 
+- [iOS リポジトリ](https://github.com/furarico/octo-deck-ios)
+- [API リポジトリ](https://github.com/furarico/octo-deck-api)
+- [TypeSpec リポジトリ](https://github.com/furarico/octo-deck-typespec)
+- [GitHub Projects](https://github.com/orgs/furarico/projects/8)
+- [API ドキュメント](https://furarico.github.io/octo-deck-typespec/octo-deck-api)
+
 ## プロダクト名
 
 OctoDeck（おくとでっく）
+
+<img width="200" src="https://github.com/user-attachments/assets/ee1cd89a-3574-4bd5-b535-259ba81db25e" />
 
 ## コンセプト
 
@@ -51,16 +59,13 @@ OctoDeck（おくとでっく）
 
 ## スクリーンショット(任意)
 
-<img width="200" alt="screenshot01" src="https://github.com/user-attachments/assets/a707f5d7-310a-4fc5-8499-6add22f516a3" />
-<img width="200" alt="screenshot02" src="https://github.com/user-attachments/assets/d161dd66-474c-471c-adee-431ef8d949c0" />
-<img width="200" alt="screenshot03" src="https://github.com/user-attachments/assets/cc345190-b892-4e81-b465-66f0df1f4ad0" />
-<img width="200" alt="screenshot04" src="https://github.com/user-attachments/assets/d01578f9-6742-4b04-af34-c6b3282c7f5b" />
-<img width="200" alt="screenshot05" src="https://github.com/user-attachments/assets/a6ccf4fc-5b3b-4b76-8b78-aafd6cfa7b69" />
-<img width="200" alt="screenshot06" src="https://github.com/user-attachments/assets/01f7c828-3fa0-430b-a58a-3b0cc932ea75" />
-<img width="200" alt="screenshot07" src="https://github.com/user-attachments/assets/46bed1cf-74e3-4f79-8c30-f6f9f6b7e7bb" />
-<img width="200" alt="screenshot08" src="https://github.com/user-attachments/assets/deadb0c2-663b-4044-8efe-446b054bbbf8" />
-<img width="200" alt="screenshot09" src="https://github.com/user-attachments/assets/f504bc5b-2f7d-4949-b287-900d74bd62e1" />
-<video controls width="200" src="https://github.com/user-attachments/assets/a084eff8-041c-4e8f-bca5-1a9baecd1f07"></video>
+<img width="200" alt="screenshot01" src="https://github.com/user-attachments/assets/5090f0dc-dd7a-4ae4-972b-c7604c398097" />
+<img width="200" alt="screenshot02" src="https://github.com/user-attachments/assets/a84e0509-09da-4e43-9c8c-f8b406e8e636" />
+<img width="200" alt="screenshot03" src="https://github.com/user-attachments/assets/e018b049-1f65-4424-b68b-05b9a812f81f" />
+<img width="200" alt="screenshot04" src="https://github.com/user-attachments/assets/146f2ddf-992c-4cd3-a41d-f6c65a4c8523" />
+<img width="200" alt="screenshot05" src="https://github.com/user-attachments/assets/8822fe72-60aa-43a6-a636-4191ce096c9e" />
+<img width="200" alt="screenshot06" src="https://github.com/user-attachments/assets/7543d2b7-4301-4e14-9388-e97ddafa3e11" />
+<video controls width="200" src="https://github.com/user-attachments/assets/a60ebc86-1beb-45c7-8ddb-bca81cb1786e"></video>
 
 ## 開発体制
 
