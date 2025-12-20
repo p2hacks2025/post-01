@@ -65,7 +65,7 @@ OctoDeck（おくとでっく）
 <img width="200" alt="screenshot04" src="https://github.com/user-attachments/assets/146f2ddf-992c-4cd3-a41d-f6c65a4c8523" />
 <img width="200" alt="screenshot05" src="https://github.com/user-attachments/assets/8822fe72-60aa-43a6-a636-4191ce096c9e" />
 <img width="200" alt="screenshot06" src="https://github.com/user-attachments/assets/7543d2b7-4301-4e14-9388-e97ddafa3e11" />
-<video controls width="200" src="https://github.com/user-attachments/assets/a084eff8-041c-4e8f-bca5-1a9baecd1f07"></video>
+<video controls width="200" src="https://github.com/user-attachments/assets/a60ebc86-1beb-45c7-8ddb-bca81cb1786e"></video>
 
 ## 開発体制
 
