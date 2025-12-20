@@ -10,6 +10,8 @@
 
 OctoDeck（おくとでっく）
 
+<img width="200" src="https://github.com/user-attachments/assets/ee1cd89a-3574-4bd5-b535-259ba81db25e" />
+
 ## コンセプト
 
 キラキラカードを集めてキラキラエンジニアとつながろう！
