@@ -108,8 +108,9 @@ OctoDeck（おくとでっく）
 - テストの拡充
   - 安全な機能拡張やファクタリングが可能に
   - テストカバレッジ
-    - Handler: 89.1%
-    - Service: 98.9%
+    - Handler: 88.7%
+    - Service: 96.7%
+    - Repository: 88.4%
 - GitHub Actions を活用した CI/CD の導入
   - フィードバックサイクルの短縮
   - dev, stg, prod といったデプロイ環境を複数用意することで安全な検証が可能に
