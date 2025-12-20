@@ -62,10 +62,9 @@ OctoDeck（おくとでっく）
 <img width="200" alt="screenshot03" src="https://github.com/user-attachments/assets/cc345190-b892-4e81-b465-66f0df1f4ad0" />
 <img width="200" alt="screenshot04" src="https://github.com/user-attachments/assets/d01578f9-6742-4b04-af34-c6b3282c7f5b" />
 <img width="200" alt="screenshot05" src="https://github.com/user-attachments/assets/a6ccf4fc-5b3b-4b76-8b78-aafd6cfa7b69" />
-<img width="200" alt="screenshot06" src="https://github.com/user-attachments/assets/01f7c828-3fa0-430b-a58a-3b0cc932ea75" />
-<img width="200" alt="screenshot07" src="https://github.com/user-attachments/assets/46bed1cf-74e3-4f79-8c30-f6f9f6b7e7bb" />
-<img width="200" alt="screenshot08" src="https://github.com/user-attachments/assets/deadb0c2-663b-4044-8efe-446b054bbbf8" />
-<img width="200" alt="screenshot09" src="https://github.com/user-attachments/assets/f504bc5b-2f7d-4949-b287-900d74bd62e1" />
+<img width="200" alt="screenshot06" src="https://github.com/user-attachments/assets/46bed1cf-74e3-4f79-8c30-f6f9f6b7e7bb" />
+<img width="200" alt="screenshot07" src="https://github.com/user-attachments/assets/deadb0c2-663b-4044-8efe-446b054bbbf8" />
+<img width="200" alt="screenshot08" src="https://github.com/user-attachments/assets/f504bc5b-2f7d-4949-b287-900d74bd62e1" />
 <video controls width="200" src="https://github.com/user-attachments/assets/a084eff8-041c-4e8f-bca5-1a9baecd1f07"></video>
 
 ## 開発体制
